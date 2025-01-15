@@ -29,4 +29,4 @@ Command: `openupm search be.elab`
 ```
 
 
-Install: openupm add be.elab.eloitoolkits
+Install: `openupm add be.elab.eloitoolkits`
