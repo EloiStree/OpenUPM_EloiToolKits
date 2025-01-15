@@ -1,0 +1,43 @@
+
+{                                                                                
+  "name": "be.elab.eloitoolkits",                              
+  "displayName": "Eloi Tool Kits",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package has dependency to all the packages on UPM",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies": {
+    "be.elab.jimmyscreamfps": "0.0.1",
+    "be.elab.wsmetamaskauth": "0.0.1",
+    "be.elab.asymsigner": "0.0.1",
+    "be.elab.pbit4096b58pkcs1sha256": "0.0.1",
+    "be.elab.iid": "0.0.1",
+    "be.elab.unityfetchoffsetntp": "0.0.1",
+    "be.elab.wsclientiid": "0.0.1",
+    "be.elab.pathtype": "0.0.1",
+    "be.elab.generatestorersakey": "0.0.1",
+    "be.elab.basicactioniid": "0.0.1",
+    "be.elab.tickcollection": "0.0.1",
+    "be.elab.wowint": "0.0.1",
+    "be.elab.pushgenericintegerdate": "0.0.1",
+    "be.elab.snam16k": "0.0.1",
+    "be.elab.easyuhandler": "0.0.1",
+    "be.elab.quickgitutility": "0.0.1",
+    "be.elab.developernote": "0.0.1",
+    "be.elab.watchexecutetime": "0.0.1",
+    "be.elab.watchtimelayersexecution": "0.0.1"
+  },
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/OpenUPM_EloiToolKits.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
