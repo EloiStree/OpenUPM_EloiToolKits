@@ -1,7 +1,7 @@
 {
   "name": "be.elab.eloitoolkits",
   "displayName": "Eloi Tool Kits",
-  "version": "0.0.1",
+  "version": "2025.1.16",
   "unity": "2018.1",
   "unityRelease": "",
   "description": "This package has dependency to all the packages on UPM",
