@@ -10,7 +10,7 @@
     "be.elab.jimmyscreamfps": "*",
     "be.elab.wsmetamaskauth": "*",
     "be.elab.asymsigner": "*",
-    "be.elab.pbit4096b58pkcs1sha256": "*",
+    "be.elab.pbit4096b58pkcs1sha256": "2025.1.16",
     "be.elab.iid": "*",
     "be.elab.unityfetchoffsetntp": "*",
     "be.elab.wsclientiid": "*",
