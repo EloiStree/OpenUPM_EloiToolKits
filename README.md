@@ -27,3 +27,6 @@ Command: `openupm search be.elab`
     "be.elab.watchexecutetime": "0.0.1",
     "be.elab.watchtimelayersexecution": "0.0.1"
 ```
+
+
+Install: openupm add be.elab.eloitoolkits
