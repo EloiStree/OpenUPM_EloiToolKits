@@ -30,3 +30,21 @@ Command: `openupm search be.elab`
 
 
 Install: `openupm add be.elab.eloitoolkits`
+
+
+
+
+
+Manual add, in package without NPM:
+```
+    "be.elab.asymsigner": "https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git",
+    "be.elab.ntpintpigamesetup": "https://github.com/EloiStree/2025_01_11_NtpIntPiQuest3GameSetup.git",
+    "be.elab.ntpsynctime": "https://github.com/EloiStree/OpenUPM_22MinutesToSaveUniversNTP.git",
+    "be.elab.pathtype": "https://github.com/EloiStree/2024_08_06_PathTypeReadWrite.git",
+    "be.elab.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.elab.unityfetchoffsetntp": "https://github.com/EloiStree/OpenUPM_UnityFetchOffsetNTP.git",
+    "be.elab.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+    "be.elab.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+    "be.elab.wsmetamaskauth": "https://github.com/EloiStree/OpenUPM_WsMetaMaskAuth.git",
+    "be.eloistree.jimmyscreamfps": "0.0.1",
+```
