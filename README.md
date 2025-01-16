@@ -7,8 +7,6 @@ This package has the dependancies to the one I took the time to publish on the m
 
 Command: `openupm search be.elab`
 
-```json
-Here is the corrected version with double quotes around all the keys and URLs:
 
 ```json
 {
@@ -38,5 +36,3 @@ Here is the corrected version with double quotes around all the keys and URLs:
 }
 ```
 
-This ensures that all the keys and values are enclosed in double quotes, as required for valid JSON formatting.
-``` 
