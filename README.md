@@ -9,7 +9,6 @@ Command: `openupm search be.elab`
 
 
 ```json
-{
     "be.elab.jimmyscreamfps": "https://github.com/EloiStree/OpenUPM_JimmyScreamFPS.git",
     "be.elab.iid": "https://github.com/EloiStree/OpenUPM_IID.git",
     "be.elab.unityfetchoffsetntp": "https://github.com/EloiStree/OpenUPM_UnityFetchOffsetNTP.git",
@@ -30,9 +29,35 @@ Command: `openupm search be.elab`
     "be.elab.wsmetamaskauth": "https://github.com/EloiStree/OpenUPM_WsMetaMaskAuth.git",
     "be.elab.wsclientiid": "https://github.com/EloiStree/OpenUPM_WsClientIID.git",
     "be.elab.asymsigner": "https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git",
-    "be.elab.ntpintpigamesetup": "https://github.com/EloiStree/2025_01_11_NtpIntPiQuest3GameSetup.git",
     "be.elab.ntpsynctime": "https://github.com/EloiStree/OpenUPM_22MinutesToSaveUniversNTP.git",
     "be.elab.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git"
-}
+```
+
+
+```
+
+git clone https://github.com/EloiStree/OpenUPM_JimmyScreamFPS.git
+git clone https://github.com/EloiStree/OpenUPM_IID.git
+git clone https://github.com/EloiStree/OpenUPM_UnityFetchOffsetNTP.git
+git clone https://github.com/EloiStree/OpenUPM_PathTypeReadWrite.git
+git clone https://github.com/EloiStree/OpenUPM_StoreGeneretedRsaKeyInUnity.git
+git clone https://github.com/EloiStree/OpenUPM_BasicActionIID.git
+git clone https://github.com/EloiStree/OpenUMP_TickCollection.git
+git clone https://github.com/EloiStree/OpenUPM_WowInt.git
+git clone https://github.com/EloiStree/OpenUPM_PushGenericIID.git
+git clone https://github.com/EloiStree/OpenUPM_SNAM16K.git
+git clone https://github.com/EloiStree/OpenUPM_EasyUnityIHandler.git
+git clone https://github.com/EloiStree/OpenUPM_QuickGitUtility.git
+git clone https://github.com/EloiStree/OpenUPM_DeveloperNote.git
+git clone https://github.com/EloiStree/OpenUPM_WatchExecuteTime.git
+git clone https://github.com/EloiStree/OpenUPM_WatchTimeLayersExecution.git
+git clone https://github.com/EloiStree/OpenUPM_EloiToolKits.git
+git clone https://github.com/EloiStree/OpenUPM_pBit4096B58Pkcs1SHA256.git
+git clone https://github.com/EloiStree/OpenUPM_WsMetaMaskAuth.git
+git clone https://github.com/EloiStree/OpenUPM_WsClientIID.git
+git clone https://github.com/EloiStree/OpenUPM_AsymmetricalClipboardCoaster.git
+git clone https://github.com/EloiStree/OpenUPM_22MinutesToSaveUniversNTP.git
+git clone https://github.com/EloiStree/OpenUPM_UnityPackageFacilitator.git
+
 ```
 
